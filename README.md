@@ -5,7 +5,7 @@ Get it here: https://discord.com/api/oauth2/authorize?client_id=8493474338963456
 
 # Setup  
 1. Use the above link to invite the bot to your server.  
-2. If you'd like to limit the bot to a specific channel, then:
+2. If you'd like to limit the bot to a specific channel, then:  
   a. Fork the rep  
   b. Copy the desired channel ID  
   c. Update the CHANNEL_ID secret  
