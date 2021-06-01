@@ -10,3 +10,8 @@ Get it here: https://discord.com/api/oauth2/authorize?client_id=8493474338963456
   b. Copy the desired channel ID  
   c. Update the CHANNEL_ID secret  
   d. Add the condition "&& msg.channel.id == channelID" to line 18
+
+# Usage  
+Simply call the bot with "!t" and follow with the message you'd like to translate.
+
+Example: "!t Tranlsate this"
