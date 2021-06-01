@@ -13,5 +13,6 @@ Get it here: https://discord.com/api/oauth2/authorize?client_id=8493474338963456
   
 # Usage  
 Simply call the bot with "!t" and follow with the message you'd like to translate.  
-
+  
+Example:  
 ![Example](https://puu.sh/HLw5i/cc27c8179c.png)
